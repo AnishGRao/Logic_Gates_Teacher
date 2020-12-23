@@ -1,0 +1,28 @@
+2
+1
+ino
+inf
+6
+A 
+B 
+C
+D
+E
+F
+A D F
+A E C B
+B F E
+D
+A E B
+B
+F D C A B
+A B C D
+0 
+1
+1
+0
+1
+1
+A
+30
+0
